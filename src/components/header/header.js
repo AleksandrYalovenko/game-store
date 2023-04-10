@@ -1,12 +1,12 @@
-import { Link } from 'react-router-dom'
-import CartBlock from '../cart-block/cart-block'
-import './header.css'
+import { Link } from 'react-router-dom';
+import CartBlock from '../cart-block/cart-block';
+import './header.css';
 
 function Header() {
 	return (
 		<div className='header'>
 			<div className='wrapper'>
-				<Link to='/' className='header__store-title'>
+				<Link to='/game-store' className='header__store-title'>
 					Game Store
 				</Link>
 			</div>
@@ -14,7 +14,7 @@ function Header() {
 				<CartBlock />
 			</div>
 		</div>
-	)
+	);
 }
 
-export default Header
+export default Header;
