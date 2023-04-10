@@ -1,0 +1,24 @@
+.header {
+	height: 80px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+	margin-bottom: 30px;
+}
+
+.wrapper {
+	display: flex;
+	flex-grow: 1;
+}
+
+.header__store-title {
+	color: #fff;
+	font-size: 24px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.header__cart-btn-wrapper {
+	justify-content: flex-end;
+}

@@ -1,0 +1,6 @@
+.order-page__total-price {
+	display: flex;
+	justify-content: flex-end;
+	font-size: 25px;
+	border-top: 1px solid rgba(255, 255, 255, 0.4);
+}
