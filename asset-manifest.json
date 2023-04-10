@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AleksandrYalovenko/game-store/static/css/main.fec683df.css",
+    "main.js": "/AleksandrYalovenko/game-store/static/js/main.2e5a0572.js",
+    "static/js/787.41265a80.chunk.js": "/AleksandrYalovenko/game-store/static/js/787.41265a80.chunk.js",
+    "index.html": "/AleksandrYalovenko/game-store/index.html",
+    "main.fec683df.css.map": "/AleksandrYalovenko/game-store/static/css/main.fec683df.css.map",
+    "main.2e5a0572.js.map": "/AleksandrYalovenko/game-store/static/js/main.2e5a0572.js.map",
+    "787.41265a80.chunk.js.map": "/AleksandrYalovenko/game-store/static/js/787.41265a80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fec683df.css",
+    "static/js/main.2e5a0572.js"
+  ]
+}
